@@ -1,6 +1,3 @@
 Hii guys practice
 I am in master branch
 This is the line i have update no
-
-i am in dev branch
-
