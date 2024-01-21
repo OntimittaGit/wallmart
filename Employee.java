@@ -13,3 +13,5 @@ Today date is 21/01/2024..
 Commiting without add command
 
 now u are in dev branch
+
+checking stash cmd
